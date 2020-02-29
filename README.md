@@ -1,5 +1,6 @@
 # Movies_Recommender_System
 <img src="Capture3.jfif" alt="Drawing" style="width: 100%;"/>
+
 # Abstract:
 In this notebook we are trying to implement a Movie Recommendation System for which we have used Movielens dataset. It is a research is about implementing different algorithms on Movielens dataset and recommending movies to users. Different filtering techniques have been incorporated initially to check how well they perform on the dataset. Collaborative filtering being one of the most widely used technique for recommendation systems is implemented here. These techniques have their own drawbacks which is the purpose of this research project. We have implemented various functions which takes corresponding inputs to determine which movies to recommend against that input.
 
